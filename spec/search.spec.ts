@@ -10,7 +10,7 @@ module.exports = {
   },
 
   "should be on Sandbox": function(browser: NightwatchBrowser) {
-    browser.assert.title("Sandbox");
-    browser.assert.containsText("h1", "Sandbox");
+    browser.expect.title().to.contain("Sandbox");
+    browser.expect.element("h1").text.to.equal("Sandbox");
   }
 };
