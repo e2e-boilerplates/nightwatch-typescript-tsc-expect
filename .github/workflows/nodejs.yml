@@ -1,4 +1,4 @@
-name: nightwatch-typescript-tsc-assert
+name: nightwatch-typescript-tsc-expect
 
 on:
   push:
