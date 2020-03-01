@@ -49,5 +49,6 @@
     "clean": "npx rimraf ./build/*",
     "test": "npx nightwatch"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {}
 }
