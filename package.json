@@ -1,5 +1,6 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
+  "dependencies": {},
   "description": "Nightwatch end-to-end test automation boilerplate, using TypeScript, TSC and Assert.",
   "devDependencies": {
     "@types/nightwatch": "1.1.3",
@@ -20,12 +21,7 @@
     }
   },
   "keywords": [
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "nightwatch",
     "tsc",
     "typescript"
@@ -49,6 +45,5 @@
     "clean": "npx rimraf ./build/*",
     "test": "npx nightwatch"
   },
-  "version": "1.0.0",
-  "dependencies": {}
+  "version": "1.0.0"
 }
