@@ -6,8 +6,12 @@ Nightwatch end-to-end test automation boilerplate, using TypeScript, Tsc and Exp
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/nightwatch-typescript-tsc-expect.git
-    	cd nightwatch-typescript-tsc-expect
-    	npm install
-    	npm run build
-    	npm run test
+1. git clone git@github.com:e2e-boilerplate/nightwatch-typescript-tsc-expect.git
+
+2. cd nightwatch-typescript-tsc-expect
+
+3. npm install
+
+4. npm run build
+
+5. npm run test
