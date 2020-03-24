@@ -12,5 +12,5 @@ module.exports = {
   "should be on Sandbox": (browser: NightwatchBrowser) => {
     browser.expect.title().to.contain("Sandbox");
     browser.expect.element("h1").text.to.equal("Sandbox");
-  }
+  },
 };
