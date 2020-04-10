@@ -1,10 +1,3 @@
 | referrer                                                                | count | uniques |
 | :---------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/nightwatch-typescript-tsc-expect/actions               | 5     | 2       |
-| /e2e-boilerplate/nightwatch-typescript-tsc-expect/actions/runs/61899633 | 2     | 2       |
-| /e2e-boilerplate/nightwatch-typescript-tsc-expect/runs/529286671        | 2     | 2       |
-| /e2e-boilerplate/nightwatch-typescript-tsc-expect/actions/runs/61196010 | 1     | 1       |
-| /e2e-boilerplate/nightwatch-typescript-tsc-expect/actions/runs/61880466 | 1     | 1       |
 | /e2e-boilerplate/nightwatch-typescript-tsc-expect/actions/runs/64985222 | 1     | 1       |
-| /e2e-boilerplate/nightwatch-typescript-tsc-expect/runs/526598856        | 1     | 1       |
-| /e2e-boilerplate/nightwatch-typescript-tsc-expect/runs/529228652        | 1     | 1       |
