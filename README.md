@@ -2,7 +2,7 @@
     
 # Nightwatch Boilerplate
     
-Nightwatch end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), tsc and Expect.
+Nightwatch end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), tsc and Expect.. Clone or fork this repository.
     
 ## Getting Started
     
